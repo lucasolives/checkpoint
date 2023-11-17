@@ -1,3 +1,4 @@
+//Lucas Ólives and André Caraíba
 #include <Dynamixel2Arduino.h>
 #include <Wire.h>
 #include "SparkFun_BNO080_Arduino_Library.h"
